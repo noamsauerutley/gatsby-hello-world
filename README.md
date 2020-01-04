@@ -4,6 +4,10 @@
     <img alt="Gatsby" src="https://www.gatsbyjs.org/monogram.svg" width="60" />
   </a>
 </p>
+
+<p align="center">
+<img src="https://media.giphy.com/media/dCLdBeaPZ9frX4L91I/giphy.gif" alt="gif of hello world web app" />
+</p>
 <h1 align="center">
   Gatsby's hello-world starter
 </h1>
